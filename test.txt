@@ -1,0 +1,1 @@
+This is a text file to test functionality of the version sync.
