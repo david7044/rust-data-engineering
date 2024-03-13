@@ -1,5 +1,5 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# rust-data-engineering
+This is a container for the Duke Rust Data Engineering Course
 
 ## References
 
